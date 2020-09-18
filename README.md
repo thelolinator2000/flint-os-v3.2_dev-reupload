@@ -1,21 +1,28 @@
 # flint-os-v3.2_dev-reupload
-This is the Official Flint OS Operating System. The Predecessor to FydeOS.
 
-## Details:
+## This is the Official Flint OS Operating System. The Predecessor to FydeOS.
+## I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore.
 
 #### It supports all major Graphics Cards/Chips prior to 2017. Support for chips after 2017 is not certain.
 #### It contains the Google Play Store.
 
+## Official Release Highlights (From Flint Innovations Limited.):
 
-## Installation:
+Refreshed UI for OOBE, app launcher and more
+Added “Advanced settings” menu in OOBE, allows broadcom wifi user to switch driver easily. Also allows changing trackpad working mode instantly
+Updated Flint OS Settings app
+Enhanced Docker support for optimised I/O
+
+
+## Installation (Taken From the FlintOS Website.):
 
 ### 1. Enter the terminal
-After the GUI of Flint OS has been loaded, press **Ctrl+Alt+F2 (on some machines, including the Apple Macs the keys are Fn+Ctrl+Alt+F2)** to enter the tty command line interface. If needed, you can press **Ctrl+Alt+F1 (or Fn+Ctrl+Alt+F1)** to get back to GUI mode. Alternatively, you can press **Ctrl+Alt+t (or Fn+Ctrl+Alt+t)** with the Chromium browser launched to enter the Crosh, then enter shell to activate the Crosh shell.
+After the GUI of Flint OS has been loaded, press **Ctrl+Alt+F2 (on some machines, including the Apple Macs the keys are Fn+Ctrl+Alt+F2)** to enter the tty command line interface. If needed, you can press **Ctrl+Alt+F1 (or Fn+Ctrl+Alt+F1)** to get back to GUI mode. Alternatively, you can press **Ctrl+Alt+t (or Fn+Ctrl+Alt+t)** with the Chromium browser launched to enter the Crosh, then enter ``` shell ``` to activate the Crosh shell.
 
 
 
 ### 2. Login
-Flint OS will ask you for a login name and then a password. Before Flint OS for PC v0.3, the default username and password are both chronos. In any later release of Flint OS for PC, we will not provide a default password for security reasons. More details please refer to our FAQ.
+Flint OS will ask you for a login name and then a password. Before Flint OS for PC v0.3, the default username and password are both ``` chronos```. In any later release of Flint OS for PC, we will not provide a default password for security reasons.
 
 
 
