@@ -16,6 +16,30 @@
 
 * Enhanced Docker support for optimised I/O
 
+## How to Flash for installation:
+
+### 1. Download Balena Etcher / Rufus.
+
+[Rufus](https://rufus.ie/)
+[balenaEtcher](https://www.balena.io/etcher/)
+
+### 2. Go to the releases page for this GitHub.
+
+Once you're there, download the FlintOS v3.2_dev img file.
+
+### 3. Select your usb in either Rufus or balenaEtcher
+
+The USB should be at least **8 Gigabytes* in size.
+**If using balenaEtcher, follow step 4 first.**
+
+### 4. Select the img file in either Rufus or balenaEtcher
+
+**If using balenaEtcher, you have to follow this step first.**
+Locate the img file you have just downloaded.
+
+### 5. Start the flashing process.
+
+Just click start and let the software do its magic.
 
 ## Installation (Taken From the FlintOS Website.):
 
