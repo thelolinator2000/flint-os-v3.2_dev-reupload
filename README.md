@@ -1,20 +1,20 @@
 # flint-os-v3.2_dev-reupload
 
 ## This is the Official Flint OS Operating System. The Predecessor to FydeOS.
-## I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore.
+### I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore.
 
 #### It supports all major Graphics Cards/Chips prior to 2017. Support for chips after 2017 is not certain.
 #### It contains the Google Play Store.
 
-## Official Release Highlights (From Flint Innovations Limited.):
+## Official Release Highlights (Taken from the FlintOS Website):
 
-Refreshed UI for OOBE, app launcher and more
+* Refreshed UI for OOBE, app launcher and more
 
-Added “Advanced settings” menu in OOBE, allows broadcom wifi user to switch driver easily. Also allows changing trackpad working mode instantly
+* Added “Advanced settings” menu in OOBE, allows broadcom wifi user to switch driver easily. Also allows changing trackpad working mode instantly
 
-Updated Flint OS Settings app
+* Updated Flint OS Settings app
 
-Enhanced Docker support for optimised I/O
+* Enhanced Docker support for optimised I/O
 
 
 ## Installation (Taken From the FlintOS Website.):
