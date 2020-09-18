@@ -9,8 +9,11 @@
 ## Official Release Highlights (From Flint Innovations Limited.):
 
 Refreshed UI for OOBE, app launcher and more
+
 Added “Advanced settings” menu in OOBE, allows broadcom wifi user to switch driver easily. Also allows changing trackpad working mode instantly
+
 Updated Flint OS Settings app
+
 Enhanced Docker support for optimised I/O
 
 
