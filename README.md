@@ -18,9 +18,10 @@
 
 ## How to Flash for installation:
 
-### 1. Download Balena Etcher / Rufus.
+### 1. Download balenaEtcher / Rufus.
 
 [Rufus](https://rufus.ie/)
+
 [balenaEtcher](https://www.balena.io/etcher/)
 
 ### 2. Go to the releases page for this GitHub.
