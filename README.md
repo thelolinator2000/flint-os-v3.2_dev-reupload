@@ -3,7 +3,7 @@
 ## This is the Official Flint OS Operating System. The Predecessor to FydeOS.
 ### I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore.
 
-#### It supports all major Graphics Cards/Chips prior to 2017. Support for chips after 2017 is not certain.
+#### It supports all major Graphics Cards/Chips made either during/prior to 2017. Support for chips after 2017 is not certain.
 #### It contains the Google Play Store.
 
 ## Official Release Highlights (Taken from the FlintOS Website):
