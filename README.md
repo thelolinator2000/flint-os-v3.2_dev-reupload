@@ -69,3 +69,6 @@ to obtain a list of attached physical hard drives recognised by the system. Unde
 Enter command
 ```sudo /usr/sbin/chromeos-install --dst /dev/"your hard drive"```
 You will get asked for sudo password. The installation script will confirm with you once again if you wish to continue and your hard drive will be erased. If this is what you really want, key in ```y```.
+
+## If you have any other questions, the FAQ is still up at: https://flintos.io/faq/
+## you can follow it for question such as enabling multi-touch gestures on FlintOS.
