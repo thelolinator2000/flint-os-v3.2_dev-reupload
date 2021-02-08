@@ -70,5 +70,5 @@ Enter command
 ```sudo /usr/sbin/chromeos-install --dst /dev/"your hard drive"```
 You will get asked for sudo password. The installation script will confirm with you once again if you wish to continue and your hard drive will be erased. If this is what you really want, key in ```y```.
 
-## If you have any other questions, you can check the [FAQ](https://flintos.io/faq/) which it still up.
+## If you have any other questions, you can check the [FAQ](https://flintos.io/faq/) which it still available.
 ## you can follow it for question such as enabling multi-touch gestures on FlintOS.
