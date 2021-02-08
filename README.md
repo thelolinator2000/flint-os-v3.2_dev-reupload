@@ -34,7 +34,7 @@ Once you're there, download the FlintOS v3.2_dev img file.
 
 ### 3. Select your usb in either Rufus or balenaEtcher
 
-The USB should be at least **8 Gigabytes* in size.
+The USB should be at least *8 Gigabytes* in size.
 **If using balenaEtcher, follow step 4 first.**
 
 ### 4. Select the img file in either Rufus or balenaEtcher
