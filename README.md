@@ -4,7 +4,6 @@
 ### I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore.
 
 #### It supports all major Graphics Cards/Chips made either during/prior to 2017. Support for chips after 2017 is not certain.
-#### It contains the Google Play Store.
 
 ## Official Release Highlights (Taken from the FlintOS Website):
 
@@ -45,12 +44,12 @@ Just click start and let the software do its magic.
 ## Installation (Taken From the FlintOS Website.):
 
 ### 1. Enter the terminal
-After the GUI of Flint OS has been loaded, press **Ctrl+Alt+F2 (on some machines, including the Apple Macs the keys are Fn+Ctrl+Alt+F2)** to enter the tty command line interface. If needed, you can press **Ctrl+Alt+F1 (or Fn+Ctrl+Alt+F1)** to get back to GUI mode. Alternatively, you can press **Ctrl+Alt+t (or Fn+Ctrl+Alt+t)** with the Chromium browser launched to enter the Crosh, then enter ``` shell ``` to activate the Crosh shell.
+After the GUI of Flint OS has been loaded, press **Ctrl+Alt+F2 (on some machines, including the Apple Macs the keys are Fn+Ctrl+Alt+F2)** to enter the tty command line interface. If needed, you can press **Ctrl+Alt+F1 (or Fn+Ctrl+Alt+F1)** to get back to GUI mode. Alternatively, you can press **Ctrl+Alt+t (or Fn+Ctrl+Alt+t)** with the Chromium browser launched to enter the Crosh, then enter ```shell``` to activate the Crosh shell.
 
 
 
 ### 2. Login
-Flint OS will ask you for a login name and then a password. Before Flint OS for PC v0.3, the default username and password are both ``` chronos```. In any later release of Flint OS for PC, we will not provide a default password for security reasons.
+Flint OS will ask you for a login name and then a password. Before Flint OS for PC v0.3, the default username and password are both ```chronos```. In any later release of Flint OS for PC, we will not provide a default password for security reasons.
 
 
 
@@ -63,5 +62,5 @@ to obtain a list of attached physical hard drives recognised by the system. Unde
 
 ### 4. Run installation script
 Enter command
-``` sudo /usr/sbin/chromeos-install --dst /dev/sda ```
-You will get asked for sudo password. The installation script will confirm with you once again if you wish to continue and your hard drive will be erased. If this is what you really want, key in Y.
+```sudo /usr/sbin/chromeos-install --dst /dev/sda```
+You will get asked for sudo password. The installation script will confirm with you once again if you wish to continue and your hard drive will be erased. If this is what you really want, key in ```y```.
