@@ -1,7 +1,7 @@
 # flint-os-v3.2_dev-reupload
 
 ## This is the Official Flint OS Operating System. The Predecessor to FydeOS.
-### I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore.
+### I do not own this. This is a reupload of the FlintOS Operating System by *Flint Innovations Limited* as the OS cannot be downloaded anymore due to an acquisition by [Neverware](www.neverware.com).
 
 ### Based on Chromium R62
 ### Built on 21/12/2017
