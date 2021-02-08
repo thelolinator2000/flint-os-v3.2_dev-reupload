@@ -30,17 +30,18 @@
 
 ### 2. Go to the releases page for this GitHub.
 
-Once you're there, download the FlintOS v3.2_dev img file.
+Once you're there, download the FlintOS v3.2_dev .xz file.
 
-### 3. Select your usb in either Rufus or balenaEtcher
+### 3. Extract the .xz file using [WinRAR](www.win-rar.com)
 
-The USB should be at least *8 Gigabytes* in size.
-**If using balenaEtcher, follow step 4 first.**
+Right-click the selected file and click extract here.
+**If using balenaEtcher you can ignore this step.**
 
-### 4. Select the img file in either Rufus or balenaEtcher
+### 4. Select the USB and .img (Rufus) or .xz (balenaEtcher) file.
 
-**If using balenaEtcher, you have to follow this step first.**
-Locate the img file you have just downloaded.
+For your USB Drive, make sure it is at least ***8 Gigabytes*** in size, otherwise the installer will not fit on the drive.
+
+#### **ALL YOUR DATA ON THE USB DRIVE WILL BE ***ERASED***. YOU HAVE BEEN WARNED. MAKE SURE YOU BACK IT UP, OR USE AN EMPTY DRIVE.**
 
 ### 5. Start the flashing process.
 
