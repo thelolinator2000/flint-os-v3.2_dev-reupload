@@ -54,7 +54,7 @@ After the GUI of Flint OS has been loaded, press **Ctrl+Alt+F2 (on some machines
 
 
 ### 2. Login
-Flint OS will ask you for a login name and then a password. Before Flint OS for PC v0.3, the default username and password are both ```chronos```. In any later release of Flint OS for PC, we will not provide a default password for security reasons.
+Flint OS will ask you for a login name and then a password. Before Flint OS for PC v0.3, the default username and password are both ```chronos```. If any later release of Flint OS was released for PC, they would not provide a default password for security reasons.
 
 
 
@@ -67,5 +67,5 @@ to obtain a list of attached physical hard drives recognised by the system. Unde
 
 ### 4. Run installation script
 Enter command
-```sudo /usr/sbin/chromeos-install --dst /dev/sda```
+```sudo /usr/sbin/chromeos-install --dst /dev/"your hard drive"```
 You will get asked for sudo password. The installation script will confirm with you once again if you wish to continue and your hard drive will be erased. If this is what you really want, key in ```y```.
