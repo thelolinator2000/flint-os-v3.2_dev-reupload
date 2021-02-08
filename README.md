@@ -5,6 +5,8 @@
 
 #### It supports all major Graphics Cards/Chips made either during/prior to 2017. Support for chips after 2017 is not certain.
 
+#### This is the dev version of FlintOS and may not include Google Play Store.
+
 ## Official Release Highlights (Taken from the FlintOS Website):
 
 * Refreshed UI for OOBE, app launcher and more
